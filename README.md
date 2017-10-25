@@ -2785,7 +2785,7 @@ github  [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasa
 
 # 笔者寄语:
 
-<span style="font-size: 15px">今年我们的权威框架之旅就结束了，是否感觉到意犹未尽？那太好了，欢迎各位读者加入《Android百大框架排行榜》的讨论之中，可以来[文章原文的底部](%E8%BF%9E%E6%8E%A5)评论留言，也可以参与维护此项目：</span>
+<span style="font-size: 15px">今年我们的权威框架之旅就结束了，是否感觉到意犹未尽？那太好了，欢迎各位读者加入《Android百大框架排行榜》的讨论之中，可以来[原文链接](http://www.cnblogs.com/jincheng-yangchaofan/articles/7018780.html "Permalink to 2017年Android百大框架排行榜 - 杨超凡_金诚先生 - 博客园")评论留言，也可以参与维护此项目：</span>
 
 <span style="font-size: 15px">1.我认为XX框架应该上榜，理由XX</span>
 
@@ -2797,6 +2797,6 @@ github  [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasa
 
 <span style="font-size: 15px">笔者希望收到**有理有据**的评论和未上榜的**框架推荐**，届时笔者会抽取一部分参与评论的小伙伴将，发放共计100RMB的物质奖励！</span>
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　2017-06-19   北京
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　2017-10-25   北京
 
 </div>
