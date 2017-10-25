@@ -60,107 +60,110 @@
 
 快速索引
 
-快速索引
+|框架名称       | 上榜关键字  |
+| --------   | ----- |
+| 1.Retrofit　    | 网络 |
+| 2.okhttp        |   网络   |
+| 3.Butter Knife        |    代码模板    |
+| 4.MPAndroidChart       |    图表    |
+|5.glide        |    代码模板    |
+|6.leakcanary       |    	内存    |
+| 7.Android-Universal-Image-Loader       |    图片    |
+|8.EventBus        |    事件消息    |
+| 9.zxing        |    条码扫描    |
+|10.picasso       |    图片    |
+|11.lottie-android        |    动画    |
+| 12.fresco      |    图片    |
+| 13.RxAndroid     |    异步    |
+| 14.SlidingMenu    |    菜单    |
+|15.PhotoView     |    图片    |
+| 16.material-dialogs      |    UI    |
+| 17.droid-async-http      |    网络    |
+| 18.androidannotations      |注解|
+| 19.fastjson    |    json    |
+| 20.Material-Animations    |    动画    |
+| 21.tinker     |    热修复|
+| 22.ViewPagerIndicator     |    UI|
+| 23.Android-CleanArchitecture     |    架构|
+| 24.Android-PullToRefresh     |    	刷新|
+| 25.flexbox-layout    |    UI|
+| 26.AndroidSwipeLayout    |    UI|
+| 27.realm-java     |    数据库|
+| 28.greenDAO    |    数据|
+| 29.stetho     |    调试|
+| 30.BaseRecyclerViewAdapterHelper    |    UI|
+| 31.AndroidViewAnimations     |    动画|
+| 32.MaterialDrawer    |    菜单|
+| 33.Android-ObservableScrollView    |    UI|
+| 34.CircleImageView   |    图片|
+| 35.logger    |    调试|
+| 32.MaterialDrawer    |    菜单|
+| 36.agera    |    	异步|
+| 37.BottmBar    |    菜单|
+| 38.Calligraphy   |    字体|
+| 39.AndroidSlidingUpPanel    |    UI|
+| 40.AppIntro   |    UI|
+| 41.recyclerview-animators    |    动画|
+| 42.dagger    |    依赖注入|
+| 43.Android-Bootstarp    |    UI|
+| 44.RxBinding    |    响应式|
+| 45.ListViewAnimations   |    动画|
+| 46.UItimateRecyclerView  |    图片|
+| 47.uCrop   |    UI|
+| 48.RxJava-Android-Samples   |用例|
+| 49.AndroidAutoLayout   |    适配|
+| 50.EffectiveAndroidUI    |    性能|
+|51.Luban    |    图片|
+| 52.DroidPlugin    |    插件化|
+| 53.otto    |    响应式|
+|54.u2020    |    用例|
+| 55.buck    |    构建|
+| 56.PermissionsDispatcher   |权限|
+| 57.android-gif-drawable   |    GIF|
+|58.Apktool    |    反编译|
+| 59.dynamic-load-apk   |    插件化|
+|60.atlas   |    插件化|
+| 61.volley    |    网络|
+| 62.androidmvp   |    用例|
+| 63.SwipeBackLayout    |    手势|
+| 64.FlycoTabLayout |    UI|
+|65.android-testing   |    测试|
+|66.FileDownloader   |    下载|
+|67.JieCaoVideoPlayer  |    多媒体|
+|68.glide-transformations   |    	图片|
+|69.android-gpuimage  |    图片|
+|70.RxPermissions  |    权限|
+|71.freeline  |    编译|
+|72.RxLifecycle   |	生命周期|
+|73.classyshark  |    反编译|
+|74.acra   |    崩溃日志|
+|75.DiskLruCache   |    文件|
+|76.dexposed   |    热修复|
+|77.Litho   |    性能|
+|78.mosby  |    MVP|
+|79.AndResGuard　　   |    混淆|
+|80.StatusBarUtil |    状态栏|
+|81.robolectric  |    测试|
+|82.Fragmentation  |    嵌套|
+|83.Small   |    插件化|
+|84.JsBridge   |    hybrid|
+|85.richeditor-android   |    UI|
+|86.Transitions-Everywhere  |    动画|
+|87.android-viewbadger  |    勋章|
+|88.AndroidWiFiADB |    调试|
+|89.emojicon  |    表情包|
+|90.packer-ng-plugin |    多渠道|
+|91.android-priority-jobqueue |    多线程|
+|92.Android-Debug-Database  |    调试|
+|93.conceal|加密|
+|94.ARouter |    页面路由|
+|95.MagicaSakura  |    多主题|
+|89.96.CustomActivityOnCrash  |    崩溃|
+|97.XhsEmoticonsKeyboard |    键盘|
 
-| ----- |
-| **框架名称　　** |  **上榜关键字** |
-| 1.Retrofit　　 |  网络 |
-| 2.okhttp |  网络 |
-| 3.Butter Knife |  代码模板 |
-| 4.MPAndroidChart |  图表 |
-| 5.glide |  图片 |
-| 6.leakcanary |  内存 |
-| 7.Android-Universal-Image-Loader |  图片 |
-| 8.EventBus  |  事件消息 |
-| 9.zxing |  条码扫描 |
-| 10.picasso |  图片 |
-| 11.lottie-android |  动画 |
-| 12.fresco |  图片 |
-| 13.RxAndroid |  异步 |
-| 14.SlidingMenu |  菜单 |
-| 15.PhotoView |  图片 |
-| 16.material-dialogs |  UI |
-| 17.droid-async-http |  网络 |
-| 18.androidannotations |  注解 |
-| 19.fastjson |  json |
-| 20.Material-Animations |  动画 |
-| 21.tinker |  热修复 |
-| 22.ViewPagerIndicator |  UI |
-| 23.Android-CleanArchitecture |  架构 |
-| 24.Android-PullToRefresh |  刷新 |
-| 25.flexbox-layout |  UI |
-| 26.AndroidSwipeLayout |  UI |
-| 27.realm-java |  数据库 |
-| 28.greenDAO |  数据 |
-| 29.stetho |  调试 |
-| 30.BaseRecyclerViewAdapterHelper |  UI |
-| 31.AndroidViewAnimations |  动画 |
-| 32.MaterialDrawer |  菜单 |
-| 33.Android-ObservableScrollView |  UI |
-| 34.CircleImageView |  图片 |
-| 35.logger |  调试 |
-| 36.agera |  异步 |
-| 37.BottmBar |  菜单 |
-| 38.Calligraphy |  字体 |
-| 39.AndroidSlidingUpPanel |  UI |
-| 40.AppIntro |  UI |
-| 41.recyclerview-animators |  动画 |
-| 42.dagger |  依赖注入 |
-| 43.Android-Bootstarp |  UI |
-| 44.RxBinding |  响应式 |
-| 45.ListViewAnimations |  动画 |
-| 46.UItimateRecyclerView |  UI |
-| 47.uCrop |  图片 |
-| 48.RxJava-Android-Samples |  用例 |
-| 49.AndroidAutoLayout |  适配 |
-| 50.EffectiveAndroidUI |  性能 |
-| 51.Luban |  图片 |
-| 52.DroidPlugin |  插件化 |
-| 53.otto |  响应式 |
-| 54.u2020 |  用例 |
-| 55.buck |  构建 |
-| 56.PermissionsDispatcher |  权限 |
-| 57.android-gif-drawable |  GIF |
-| 58.Apktool |  反编译 |
-| 59.dynamic-load-apk |  插件化 |
-| 60.atlas |  插件化 |
-| 61.volley |  网络 |
-| 62.androidmvp |  用例 |
-| 63.SwipeBackLayout |  手势 |
-| 64.FlycoTabLayout |  UI |
-| 65.android-testing |  测试 |
-| 66.FileDownloader |  下载 |
-| 67.JieCaoVideoPlayer |  多媒体 |
-| 68.glide-transformations |  图片 |
-| 69.android-gpuimage |  图片 |
-| 70.RxPermissions |  权限 |
-| 71.freeline |  编译 |
-| 72.RxLifecycle |  生命周期 |
-| 73.classyshark |  反编译 |
-| 74.acra |  崩溃日志 |
-| 75.DiskLruCache |  文件 |
-| 76.dexposed |  热修复 |
-| 77.Litho |  性能 |
-| 78.mosby |  MVP |
-| 79.AndResGuard　　　　 |  混淆 |
-| 80.StatusBarUtil |  状态栏 |
-| 81.robolectric |  测试 |
-| 82.Fragmentation |  嵌套 |
-| 83.Small |  插件化 |
-| 84.JsBridge |  hybrid |
-| 85.richeditor-android |  UI |
-| 86.Transitions-Everywhere |  动画 |
-| 87.android-viewbadger |  勋章 |
-| 88.AndroidWiFiADB |  调试 |
-| 89.emojicon |  表情包 |
-| 90.packer-ng-plugin |  多渠道 |
-| 91.android-priority-jobqueue |  多线程 |
-| 92.Android-Debug-Database |  调试 |
-| 93.conceal |  加密 |
-| 94.ARouter |  页面路由 |
-| 95.MagicaSakura |  多主题 |
-| 96.CustomActivityOnCrash |  崩溃 |
-| 97.XhsEmoticonsKeyboard |  键盘 |
+
+
+
 
 ## 1\. Retrofit　　
 
