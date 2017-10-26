@@ -235,7 +235,7 @@
 
 <span style="font-size: 15px">上榜理由：github上16.1K个star，以快速、简洁。强大著称的图表框架</span>
 
-<span style="font-size: 15px">官网地址 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart%20)  </span>
+<span style="font-size: 15px">官网地址 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)  </span>
 
 <span style="font-size: 15px">github  https://github.com/PhilJay/MPAndroidChart</span>
 
@@ -2109,7 +2109,7 @@ badge.show();</span></pre>
 
 </div>
 
-## 889.emojicon
+## 89.emojicon
 
 <span style="font-size: 15px">一句话介绍：一款提供在TextView、EdiText展示表情包能力的框架</span>
 
