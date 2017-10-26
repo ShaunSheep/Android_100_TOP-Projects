@@ -1,10 +1,13 @@
 [博客原文链接](http://www.cnblogs.com/jincheng-yangchaofan/articles/7018780.html "Permalink to 2017年Android百大框架排行榜 - 杨超凡_金诚先生 - 博客园")
 >说明：
->无聊写一篇笔记式文章.
->精力有限，很多错误之处，受时间与能力限制，没能及时修改，隐隐懊悔,
+>无聊之时作的一篇笔记式文章，
+>精力有限，很多错误之处，受时间与能力限制，没能及时修改，隐隐懊悔，
 >受读者启发，遂将此文公之于众，旨在号召大家共同编辑、共同参与，让此排行榜帮助更多的Android开发者。
-
-
+>
+>读者参与方式：
+>1.在博客原文站点进行评论，提出对文章内容的修改意见，请务必描述准确。
+>2.使用Github的Pull requests，clone本地->重新编辑->提交。请务必核查准确。
+>3.提Issues，我每周末会统一解决Issues（这种会影响关注者的时间线，最末推荐）。
 <div id="cnblogs_post_body">
 
 > # <span style="font-family: 宋体; background-color: #ff9900"> 框架：提供一定能力的小段程序</span>
@@ -66,7 +69,7 @@
 | 2.okhttp        |   网络   |
 | 3.Butter Knife        |    代码模板    |
 | 4.MPAndroidChart       |    图表    |
-|5.glide        |    代码模板    |
+|5.Glide        |    图片  |
 |6.leakcanary       |    	内存    |
 | 7.Android-Universal-Image-Loader       |    图片    |
 |8.EventBus        |    事件消息    |
@@ -78,7 +81,7 @@
 | 14.SlidingMenu    |    菜单    |
 |15.PhotoView     |    图片    |
 | 16.material-dialogs      |    UI    |
-| 17.droid-async-http      |    网络    |
+| 17.android-async-http     |    网络    |
 | 18.androidannotations      |注解|
 | 19.fastjson    |    json    |
 | 20.Material-Animations    |    动画    |
@@ -550,7 +553,7 @@ photoView.setImageResource(R.drawable.image);</span></pre>
 
 </div>
 
-## 17.droid-async-http
+## 17.Adroid-async-http
 
 <span style="font-size: 15px"> 一句话介绍：一款基于Http协议的异步请求的网络框架，</span>
 
@@ -2731,7 +2734,7 @@ and search for `freeline`.
 
 一句话介绍：Google推出的Android编程语言
 
-上榜理由：就像AndroidStudio取代Eclipse那样，Goolg将kotiln作为Android的官网语言，也许是为了避免同Oracle的专利诉讼，但kotlin 100%兼容java，大幅精简java代码量，以及函数式编程的思想这些优异的特性同意值得我们注意，还记得在榜单之前说过的吗？未来是kotlin的，当下是java的，但我们处在当下通往未来的道路上——学习未来的编程语言，提升自己的工作效率，早点下班打豆豆，何乐而不为？
+上榜理由：就像AndroidStudio取代Eclipse那样，Google将kotiln作为Android的官方编程语言，也许此举是为了避免同Oracle的专利诉讼，但kotlin 100%兼容java，大幅精简java代码量，以及函数式编程的思想这些优异的特性同意值得我们注意，还记得在榜单之前说过的吗？未来是kotlin的，当下是java的，但我们处在当下通往未来的道路上——学习未来的编程语言，提升自己的工作效率，早点下班打豆豆，何乐而不为？
 
 官网地址：[http://kotlinlang.org/](http://kotlinlang.org/)
 
@@ -2797,6 +2800,6 @@ github  [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasa
 
 <span style="font-size: 15px">笔者希望收到**有理有据**的评论和未上榜的**框架推荐**，届时笔者会抽取一部分参与评论的小伙伴将，发放共计100RMB的物质奖励！</span>
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　2017-10-25   北京
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　                                            2017-10-25   北京
 
 </div>
