@@ -163,7 +163,7 @@
 | 95.MagicaSakura                  | 多主题    |
 | 96.CustomActivityOnCrash         | 崩溃     |
 | 97.XhsEmoticonsKeyboard          | 键盘     |
-
+| 98.Android Debug Database        | 数据库调试     |
 
 
 
@@ -2337,6 +2337,48 @@ dependencies {</span> <span style="color: #008000">//</span> <span style="color:
 
 dependencies {
     compile</span> <span style="color: #800000">'</span><span style="color: #800000">com.github.w446108264:XhsEmoticonsKeyboard:2.0.4</span><span style="color: #800000">'</span> <span style="color: #000000">}</span></pre>
+
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy">[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")</span></div>
+
+</div>
+
+
+## 98.Android Debug Database
+
+<span style="font-size: 15px">一句话介绍：最简洁的数据库调试框架</span>
+
+span style="font-size: 15px">上榜理由：调试数据库，是诸位日常工作中必不可少的环节，与榜单里出现过facebook的stetho，Android Debug Database最大的优势是简洁：集成简洁明了，观察、操作数据库简洁明了，还有一个不得不得推荐它的理由！stetho在数据表字段数超过50的时候阅读性非常差，今天推荐的这款，在UI界面上毫无疑问有着巨大的优势！</span>
+
+span style="font-size: 15px">github [https://github.com/amitshekhariitbhu/Android-Debug-Database(https://github.com/amitshekhariitbhu/Android-Debug-Database)</span>
+
+<span style="font-size: 15px">作者：AMIT SHEKHAR</span>
+
+<span style="font-size: 15px">使用：</span>
+<div class="cnblogs_code">
+
+
+<pre><span style="color: #000000">
+
+build.gradle：
+
+debugImplementation 'com.amitshekhar.android:debug-db:1.0.3'
+
+//配置端口
+
+ debug {
+            debuggable true
+            resValue("string", "PORT_NUMBER", "9081")
+    }
+
+
+adb forward tcp:9081 tcp:9081
+
+
+查看Logcat的ip日志：D/DebugDB: Open http://XXX.XXX.X.XXX:8080 in your browser
+
+boomb！
+
+</span></pre>
 
 <div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy">[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")</span></div>
 
