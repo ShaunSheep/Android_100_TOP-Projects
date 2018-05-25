@@ -2808,7 +2808,7 @@ github：[https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotl
 
 <span style="font-size: 15px">作者：google</span>
 
-## 3.andorid-open-project
+## 3.android-open-project
 
 <span style="font-size: 15px">一句话介绍：囊括Android几乎所有的开源项目的导航类目录</span>
 
